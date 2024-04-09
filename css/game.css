@@ -1,0 +1,35 @@
+body{
+    background-image: url(../images/cloth_00044.jpg);  
+}
+
+span{
+    font-weight: bold;
+}
+
+.middle{
+    text-align: center;
+}
+
+dt{
+    font-size: 28px;
+}
+
+.middle_absolute{
+
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width:100%;
+}
+
+.middle_relative{
+    height:60px;
+    text-align:center;
+    position:relative;
+    
+}
+
+ul{
+    list-style: none;
+}

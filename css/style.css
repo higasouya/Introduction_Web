@@ -1,0 +1,24 @@
+.middle{
+    text-align: center;
+}
+
+.double{
+    border:3px black double;
+    background-color: aliceblue;
+}
+
+body{
+    background-image: url(../images/topback.jpg);
+}
+
+.simple{
+    margin-top:  20px;
+    border: 3px black solid;
+    background-color: antiquewhite;
+}
+
+.dot{
+    margin-top:  20px;
+    border: 3px black dotted;
+    background-color: beige;
+}
